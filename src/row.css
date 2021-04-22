@@ -1,0 +1,10 @@
+
+.spotify-row {
+    display: flex;
+    flex-direction: row;  
+    padding: 5px;
+}
+
+.container-spotify {
+    padding: 5px;
+}

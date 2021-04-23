@@ -7,6 +7,7 @@ import './row.css';
 const useStyles = makeStyles(
   {
     gridContainer: {
+      paddingTop:'60px',
       paddingLeft: '40px',
       paddingRight: '40px'
     }  
@@ -19,7 +20,7 @@ const Row = ({ songsToRender }) => {
     <Grid container spacing = {4} className = {classes.gridContainer} justify = "center">
         {
           songsToRender.map((song, index) => ( 
-          <Grid item xs = {12} sm = {6} md = {4} key = {index}>
+          <Grid item xs = {12} sm = {6} md = {4} lg = {3} key = {index}>
             <Card song = {song}/>
           </Grid>  
         ))}

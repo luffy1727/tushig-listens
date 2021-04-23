@@ -2,10 +2,11 @@ import React, { useState, useEffect } from 'react';
 import Row from './Row';
 import './App.css';
 import playlistData from './assets/playlist.js';
+import InfiniteScroll from 'react-infinite-scroller';
+import Loader from "react-loader-spinner";
 
 const songsPerPage = 3;
 let arrayForSongs = [];
-// TODO add spinner
 function App() {
   const [songsToShow, setSongsToShow] = useState([]);
   const [next, setNext] = useState(3);
@@ -21,8 +22,12 @@ function App() {
   }, []);
 
 const handleShowMoreSongs = () => {
+  if (songsToShow && songsToShow.length >= playlistData.length) {
+    // Do not load if there's no more items
+    return;
+  }  
   loopWithSlice(next, next + songsPerPage);
-  setNext(next + songsPerPage)
+  setNext(next + songsPerPage) 
 };
   return (
     <div className="App">
@@ -32,8 +37,20 @@ const handleShowMoreSongs = () => {
             tushig is listening
           </h1>
         </header>
-        <Row songsToRender = {songsToShow} />
-        <button onClick={handleShowMoreSongs}>Load more</button>
+        <InfiniteScroll
+          loadMore={handleShowMoreSongs}
+          hasMore= {songsToShow && songsToShow.length < playlistData.length}
+          loader={
+            <Loader
+            type="Puff"
+            color="#FFFFFF"
+            height={100}
+            width={100}
+          />
+          }
+        >
+          <Row songsToRender = {songsToShow} />
+        </InfiniteScroll>
         <div className = "shameless-plugging">
           <p className="p-footer">
               <small>

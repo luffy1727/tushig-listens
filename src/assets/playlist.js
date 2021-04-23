@@ -27,7 +27,7 @@ const playlistData =
             "uri" : "spotify:track:6tIehjffeLrtHDx34P3HOt",
             "artist" : "OHHYUK, CIFIKA",
             "title" : "Momom",
-            "content" : "One of the lesser known song by lead singer of 'Hyukoh'",
+            "content" : "One of the lesser known song by the lead singer of 'Hyukoh'",
             "createdAt" : "April 2020"
 
         },

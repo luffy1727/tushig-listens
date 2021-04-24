@@ -4,7 +4,7 @@ const playlistData =
             "uri" : "spotify:track:5mBGFJ0eurFKOTmWxY3ron",
             "artist" : "Mac Miller",
             "title" : "Once A Day",
-            "content" : "This is the last song of the late Mac Miller`s last album \"Circles\". The last note of this song/album is the transition chord(Aaug7) which makes this song unfinished    . I find it somehow peotic, that it kind of resembles Mac`s life. Unfinished. Rest in peace.",
+            "content" : "This is the last song of the late Mac Miller`s last album \"Circles\". The last note of this song/album is the transition chord(Aaug7) which makes this song unfinished    . I find it somehow poetic, that it kind of resembles Mac`s life. Unfinished. Rest in peace.",
             "createdAt" : "April 2020"
         },
         {
@@ -27,7 +27,7 @@ const playlistData =
             "uri" : "spotify:track:6tIehjffeLrtHDx34P3HOt",
             "artist" : "OHHYUK, CIFIKA",
             "title" : "Momom",
-            "content" : "One of the lesser known song by the lead singer of 'Hyukoh'",
+            "content" : "One of the lesser known songs by the lead singer of 'Hyukoh'",
             "createdAt" : "April 2020"
 
         },

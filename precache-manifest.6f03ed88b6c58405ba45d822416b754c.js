@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6aaff96377e3ac6af2ce8c62c7905e74",
+    "revision": "d1df4295a7c0eef702ee41724fff4b9c",
     "url": "/tushig-listens/index.html"
   },
   {
-    "revision": "84f6d5e5c51404b9ab80",
+    "revision": "cdae2721cc199726363b",
     "url": "/tushig-listens/static/css/main.2fce297a.chunk.css"
   },
   {
-    "revision": "a1f5bb128ce99d5e371e",
-    "url": "/tushig-listens/static/js/2.f4d7aba2.chunk.js"
+    "revision": "56faffda569ba5c3fd1f",
+    "url": "/tushig-listens/static/js/2.685fc8b8.chunk.js"
   },
   {
     "revision": "42884885db5bfef2dff6e4f01ef298a8",
-    "url": "/tushig-listens/static/js/2.f4d7aba2.chunk.js.LICENSE"
+    "url": "/tushig-listens/static/js/2.685fc8b8.chunk.js.LICENSE"
   },
   {
-    "revision": "84f6d5e5c51404b9ab80",
-    "url": "/tushig-listens/static/js/main.cc20f16b.chunk.js"
+    "revision": "cdae2721cc199726363b",
+    "url": "/tushig-listens/static/js/main.c6631e46.chunk.js"
   },
   {
     "revision": "f999f692f1d72e9e8649",

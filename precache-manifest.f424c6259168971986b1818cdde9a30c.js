@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d1df4295a7c0eef702ee41724fff4b9c",
+    "revision": "d318bef70132294adfc98b1f884677e1",
     "url": "/tushig-listens/index.html"
   },
   {
-    "revision": "cdae2721cc199726363b",
+    "revision": "5fb0bc902d1fff5c0cbf",
     "url": "/tushig-listens/static/css/main.2fce297a.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tushig-listens/static/js/2.685fc8b8.chunk.js.LICENSE"
   },
   {
-    "revision": "cdae2721cc199726363b",
-    "url": "/tushig-listens/static/js/main.c6631e46.chunk.js"
+    "revision": "5fb0bc902d1fff5c0cbf",
+    "url": "/tushig-listens/static/js/main.ed3f35ab.chunk.js"
   },
   {
     "revision": "f999f692f1d72e9e8649",

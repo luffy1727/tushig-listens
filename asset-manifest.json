@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tushig-listens/static/css/main.2fce297a.chunk.css",
-    "main.js": "/tushig-listens/static/js/main.c6631e46.chunk.js",
-    "main.js.map": "/tushig-listens/static/js/main.c6631e46.chunk.js.map",
+    "main.js": "/tushig-listens/static/js/main.ed3f35ab.chunk.js",
+    "main.js.map": "/tushig-listens/static/js/main.ed3f35ab.chunk.js.map",
     "runtime-main.js": "/tushig-listens/static/js/runtime-main.ff85a292.js",
     "runtime-main.js.map": "/tushig-listens/static/js/runtime-main.ff85a292.js.map",
     "static/js/2.685fc8b8.chunk.js": "/tushig-listens/static/js/2.685fc8b8.chunk.js",
     "static/js/2.685fc8b8.chunk.js.map": "/tushig-listens/static/js/2.685fc8b8.chunk.js.map",
     "index.html": "/tushig-listens/index.html",
-    "precache-manifest.6f03ed88b6c58405ba45d822416b754c.js": "/tushig-listens/precache-manifest.6f03ed88b6c58405ba45d822416b754c.js",
+    "precache-manifest.f424c6259168971986b1818cdde9a30c.js": "/tushig-listens/precache-manifest.f424c6259168971986b1818cdde9a30c.js",
     "service-worker.js": "/tushig-listens/service-worker.js",
     "static/css/main.2fce297a.chunk.css.map": "/tushig-listens/static/css/main.2fce297a.chunk.css.map",
     "static/js/2.685fc8b8.chunk.js.LICENSE": "/tushig-listens/static/js/2.685fc8b8.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ff85a292.js",
     "static/js/2.685fc8b8.chunk.js",
     "static/css/main.2fce297a.chunk.css",
-    "static/js/main.c6631e46.chunk.js"
+    "static/js/main.ed3f35ab.chunk.js"
   ]
 }

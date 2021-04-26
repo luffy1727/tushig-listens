@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tushig-listens/precache-manifest.6f03ed88b6c58405ba45d822416b754c.js"
+  "/tushig-listens/precache-manifest.f424c6259168971986b1818cdde9a30c.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -77,6 +77,13 @@ const playlistData =
             "title" : "Nights",
             "content" : "9th track of Frank Ocean`s 17 track album, 'Blonde'. The first 8 songs of the album are somewhat more light-toned and 'Day' themed songs. However, by the mark '3:30' of Nights, not only the tone of the song but the whole album shifts into 'Night', which is is exactly the middle of the album if you add the lengths of the song.",
             "createdAt" : "April 2020"
+        },
+        {
+            "uri" : "spotify:track:2khCtE9qhEAEj3R6vOYaUn",
+            "artist" : "The Black Skirts",
+            "title" : "Hollywood",
+            "content" : "This song resembles everything 2016. Have a trip down the memory lane.",
+            "createdAt" : "April 2020"
         }
     ]
 export default playlistData
